@@ -7,16 +7,15 @@ A modern, mobile-first Flutter app with a beautiful dashboard, trending cards, c
 ## ✨ Screenshots
 
 ### Dashboard (Light Mode)
-![Dashboard Light](https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=600&q=80)
+
 
 ### Dashboard (Dark Mode)
-![Dashboard Dark](https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=600&q=80)
+
 
 ### Login Screen
-![Login](https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=600&q=80)
+
 
 ### Category Section
-![Category](https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=600&q=80)
 
 ---
 
@@ -54,5 +53,4 @@ A modern, mobile-first Flutter app with a beautiful dashboard, trending cards, c
 
 ---
 
-## 📄 License
-MIT
+
