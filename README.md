@@ -4,15 +4,17 @@ A modern, mobile-first Flutter app with a beautiful dashboard, trending cards, c
 
 ---
 
-## ✨ Screenshots
-
-### 📱 Dashboard (Light Mode)
-<img src="https://github.com/salimderco/Omalidz-test/raw/main/images1/img1.png" width="400"/>
-
-### 🌙 Dashboard (Dark Mode)
-<img src="https://github.com/salimderco/Omalidz-test/raw/main/images1/img2.png" width="400"/>
+## ✨ Screenshots ### 
 
 ### 🔐 Login Screen
+<img src="https://github.com/salimderco/Omalidz-test/raw/main/images1/img1.png" width="400"/>
+
+### 🌙 Chat
+
+<img src="https://github.com/salimderco/Omalidz-test/raw/main/images1/img2.png" width="400"/>
+
+### 📱 Attendence
+
 <img src="https://github.com/salimderco/Omalidz-test/raw/main/images1/img3.png" width="400"/>
 
 ### 🗂️ Category Section
