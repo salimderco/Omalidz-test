@@ -8,7 +8,7 @@ A modern, mobile-first Flutter app with a beautiful dashboard, trending cards, c
 
 ### Dashboard (Light Mode)
 
-<img src="/Nouveau dossier/img1.jpg"  hight = "300" width="300">
+<img src="./Nouveau dossier/img1.jpg"  hight = "300" width="300">
 
 
 
