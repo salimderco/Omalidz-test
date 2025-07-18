@@ -8,17 +8,19 @@ A modern, mobile-first Flutter app with a beautiful dashboard, trending cards, c
 
 ### Dashboard (Light Mode)
 
-<img src="./Nouveau dossier/img1.jpg"  hight = "300" width="300">
-
-
+<code> <img src="/Nouveau dossier/img1.jpg" width="190" height="380" alt="auth screen"> </code>
 
 ### Dashboard (Dark Mode)
 
+<code> <img src="/Nouveau dossier/img1.jpg" width="190" height="380" alt="auth screen"> </code>
 
 ### Login Screen
 
+<code> <img src="/Nouveau dossier/img1.jpg" width="190" height="380" alt="auth screen"> </code>
 
 ### Category Section
+
+<code> <img src="/Nouveau dossier/img1.jpg" width="190" height="380" alt="auth screen"> </code>
 
 ---
 
