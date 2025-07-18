@@ -8,7 +8,7 @@ A modern, mobile-first Flutter app with a beautiful dashboard, trending cards, c
 
 ### Dashboard (Light Mode)
 
-![Dashboard](https://github.com/salimderco/Omalidz-test/raws/main/images1/img1.jpg)
+![Dashboard](https://github.com/salimderco/Omalidz-test/raws/main/images1/img1.png)
 
 ### Dashboard (Dark Mode)
 
