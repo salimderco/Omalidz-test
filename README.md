@@ -8,7 +8,8 @@ A modern, mobile-first Flutter app with a beautiful dashboard, trending cards, c
 
 ### Dashboard (Light Mode)
 
- ![Alt text](Nouveaudossier/img1.jpg)
+<img src="Nouvauephoto.jpg" alt="Description" width="300">
+
 
 
 ### Dashboard (Dark Mode)
