@@ -53,5 +53,4 @@ A modern, mobile-first Flutter app with a beautiful dashboard, trending cards, c
 
 ---
 
-## 📄 License
-MIT
+
